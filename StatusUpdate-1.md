@@ -1,4 +1,5 @@
 # Status Update 1
+## 02/16/24
 1. Summary of Progress
    * Discussed several options for our project
    * Chose to have a plant-based theme
